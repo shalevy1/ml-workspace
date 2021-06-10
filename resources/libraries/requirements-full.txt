@@ -318,7 +318,7 @@ pyhdb==0.3.4  # SAP HANA Database Client for Python
 ####### Web Frameworks #######
 #
 Flask==1.1.1 # A simple framework for building complex web applications.
-fastapi==0.38.1 # FastAPI framework, high performance, easy to learn, fast to code, ready for production
+fastapi==0.65.2 # FastAPI framework, high performance, easy to learn, fast to code, ready for production
 starlette==0.12.8 # fastapi requires starlette <= 0.12.8 - The little ASGI library that shines.
 graphene==2.1.8 # GraphQL Framework for Python
 uvicorn==0.9.0 # The lightning-fast ASGI server.
