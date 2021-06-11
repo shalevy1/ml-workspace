@@ -322,7 +322,7 @@ fastapi==0.38.1 # FastAPI framework, high performance, easy to learn, fast to co
 starlette==0.12.8 # fastapi requires starlette <= 0.12.8 - The little ASGI library that shines.
 graphene==2.1.8 # GraphQL Framework for Python
 uvicorn==0.9.0 # The lightning-fast ASGI server.
-websockets==8.0.2 # An implementation of the WebSocket Protocol (RFC 6455 & 7692)
+websockets==9.1 # An implementation of the WebSocket Protocol (RFC 6455 & 7692)
 gunicorn==19.9.0 # WSGI HTTP Server for UNIX
 # too big 40MB django==2.2.4 # A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
