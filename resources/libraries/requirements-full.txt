@@ -19,7 +19,7 @@ arrow==0.15.2 # Better dates & times for Python
 python-dateutil==2.8.0 # Extensions to the standard Python datetime module
 click==7.0.0 # Composable command line interface toolkit
 httpie==1.0.3 # HTTPie - a CLI, cURL-like tool for humans.
-thefuck==3.29 # Magnificent app which corrects your previous console command
+thefuck==3.31 # Magnificent app which corrects your previous console command
 fire==0.2.1 # A library for automatically generating command line interfaces.
 jmespath==0.9.4 # JSON Matching Expressions
 marisa-trie==0.7.5 # Static memory-efficient and fast Trie-like structures for Python.
