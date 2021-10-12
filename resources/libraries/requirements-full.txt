@@ -116,7 +116,7 @@ imgaug==0.2.9 # Image augmentation library for machine learning
 scikit-image==0.15.0 # Image processing routines for SciPy - version 0.14.1 is not compatible with numpy 16
 imageio==2.5.0 # Library for reading and writing a wide range of image, video, scientific, and volumetric data formats.
 Augmentor==0.2.6 # Image augmentation library for Machine Learning
-opencv-python==4.1.1.26 # Wrapper package for OpenCV python bindings.
+opencv-python==4.2.0.32 # Wrapper package for OpenCV python bindings.
 imageai==2.1.5 # A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
 
 ## Audio/Speech Processing
