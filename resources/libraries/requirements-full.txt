@@ -156,7 +156,7 @@ dragonfly-opt==0.1.4 # Scalable Bayesian optimisation.
 # tpot==0.10.2 # License Problem: GPL - Tree-based Pipeline Optimization Tool
 
 ## Parallization and Distribution
-dask==2.4.0 # Parallel PyData with Task Scheduling
+dask==2021.10.0 # Parallel PyData with Task Scheduling
 dask-ml==1.0.0 # A library for distributed and parallel machine learning
 deap==1.3.0 # Distributed Evolutionary Algorithms in Python
 mpi4py==3.0.2 # Python bindings for MPI
