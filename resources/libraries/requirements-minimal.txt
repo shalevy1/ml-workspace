@@ -30,7 +30,7 @@ jupytext==1.2.3 # Jupyter notebooks as Markdown documents, Julia, Python or R sc
 nbresuse==0.3.2 # Simple Jupyter extension to show how much resources (RAM) your notebook is using
 pyzmq==18.1.0 # Python bindings for 0MQ - Update pyzmq to newest version, otherwise warning message is shown
 ipympl==0.3.3 # Matplotlib Jupyter Extension
-jupyterhub==1.0.0 # JupyterHub: A multi-user server for Jupyter notebooks
+jupyterhub==1.5.0 # JupyterHub: A multi-user server for Jupyter notebooks
 remote_ikernel==0.4.6 # Running IPython kernels through batch queues
 jupyter_contrib_nbextensions==0.5.1 # A collection of Jupyter nbextensions.
 jupyter_nbextensions_configurator==0.4.1 # jupyter serverextension providing configuration interfaces for nbextensions.
