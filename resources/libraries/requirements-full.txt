@@ -235,7 +235,7 @@ pivottablejs==0.9.0 # PivotTable.js integration for Jupyter/IPython Notebook
 tensorwatch==0.8.5 # Interactive Realtime Debugging and Visualization for AI
 bqplot==0.11.8 # Plotting library for IPython/Jupyter Notebooks
 ipyexperiments==0.1.16 # jupyter/ipython experiment containers for GPU and general RAM re-use and memory leaks detection.
-jupyter-server-proxy==1.1.0 # Jupyter server extension to supervise and proxy web services
+jupyter-server-proxy==3.2.1 # Jupyter server extension to supervise and proxy web services
 facets-overview==1.0.0 # Python code to support the Facets Overview visualization
 ipysheet==0.4.3 # Spreadsheet in the Jupyter notebook
 # Install not working: voila==0.1.2 # Serving read-only live Jupyter notebooks
