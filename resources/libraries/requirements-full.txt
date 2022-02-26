@@ -166,7 +166,7 @@ horovod==0.18.1 # Distributed training framework for TensorFlow, Keras, PyTorch,
 
 ## ML Workflow 
 sacred==0.7.5 # tool to help you configure, organize, log and reproduce experiments 
-mlflow==1.2.0 # MLflow: An ML Workflow Tool
+mlflow==1.23.1 # MLflow: An ML Workflow Tool
 knockknock==0.1.3 # Be notified when your training is complete with only two additional lines of code
 kaggle==1.5.5 # Official API for Kaggle accessible using a command line tool implemented in Python. 
 steppy==0.1.16 # A lightweight, open-source, Python library for fast and reproducible experimentation
