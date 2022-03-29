@@ -160,7 +160,7 @@ dask==2.4.0 # Parallel PyData with Task Scheduling
 dask-ml==1.0.0 # A library for distributed and parallel machine learning
 deap==1.3.0 # Distributed Evolutionary Algorithms in Python
 mpi4py==3.0.2 # Python bindings for MPI
-horovod==0.18.1 # Distributed training framework for TensorFlow, Keras, PyTorch, and MXNet. - 30B
+horovod==0.24.0 # Distributed training framework for TensorFlow, Keras, PyTorch, and MXNet. - 30B
 # Too big? ray==0.6.4 # > 200 MB A system for parallel and distributed Python that unifies the ML ecosystem.
 # requires ray modin==0.4.0 # Modin: Make your pandas code run faster by changing one line of code.
 
