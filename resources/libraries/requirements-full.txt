@@ -96,7 +96,7 @@ flashtext==2.7 # Fast Extract/Replaces keywords in sentences.
 scattertext==0.0.2.52 # DO NOT UPDATE v53 not found - Beautiful visualizations of how language differs among document types. 
 sentencepiece==0.1.83  # Unsupervised text tokenizer for Neural Network-based text generation.
 langid==1.1.6 # Stand-alone language identification system
-scrapy==1.7.3 #A high-level Web Crawling and Web Scraping framework
+scrapy==2.6.1 #A high-level Web Crawling and Web Scraping framework
 flair==0.4.3 # A very simple framework for state-of-the-art NLP - 0.4.3 has too specific requirements
 pyahocorasick==1.4.0 # a fast and memory efficient library for exact or approximate multi-pattern string search.
 ftfy==5.6 # Fixes some problems with Unicode text after the fact
