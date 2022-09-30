@@ -5,7 +5,7 @@
 dataclasses==0.6 # A backport of the dataclasses module for Python 3.6
 
 ## Object Serialization
-joblib==0.13.2 # Lightweight pipelining: using Python functions as pipeline jobs.
+joblib==1.2.0 # Lightweight pipelining: using Python functions as pipeline jobs.
 dill==0.3.0 # dill can be used to store python objects to a file
 marshmallow==3.1.0 # A lightweight library for converting complex datatypes to and from native Python datatype
 jsonpickle==1.2 # Python library for serializing any arbitrary object graph into JSON
